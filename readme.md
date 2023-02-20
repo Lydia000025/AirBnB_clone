@@ -1,1 +1,2 @@
-This is clone website for AirBnB
+This is static web clone
+
